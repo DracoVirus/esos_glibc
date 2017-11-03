@@ -1,0 +1,1335 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (rtld_errno)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__closedir)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__readdir)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__rewinddir)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+                              /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os) (__getdents)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__fdopendir)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__profil)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__profile_frequency)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__GI___xstat64)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__open)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__libc_read)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__libc_write)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__lseek)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__access)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+                              /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os) (__libc_fcntl)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__close)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__mmap)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__munmap)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__mprotect)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__uname)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__GI__exit)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__getpid)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__environ)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__longjmp)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__strdup)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (strcmp)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (memchr)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (rawmemchr)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (memcmp)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (strchr)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (strlen)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (strnlen)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__stpcpy)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (strcspn)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (__mempcpy)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                              /home/yongkyun/glibc/build/elf/dl-allobjs.os (memset)
+/home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/yongkyun/glibc/build/elf/dl-allobjs.os
+LOAD /home/yongkyun/glibc/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000000000    0x1c7a0
+ *(.text .stub)
+ .text          0x0000000000000000    0x19360 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000001240                handle_ld_preload
+                0x0000000000006930                _dl_dst_count
+                0x00000000000069e0                _dl_dst_substitute
+                0x00000000000072e0                _dl_init_paths
+                0x0000000000007760                _dl_map_object
+                0x0000000000008160                _dl_rtld_di_serinfo
+                0x00000000000090c0                _dl_lookup_symbol_x
+                0x000000000000a180                _dl_setup_hash
+                0x000000000000a230                _dl_add_to_namespace_list
+                0x000000000000a2c0                _dl_new_object
+                0x000000000000a660                _dl_try_allocate_static_tls
+                0x000000000000a740                _dl_allocate_static_tls
+                0x000000000000a770                _dl_nothread_init_static_tls
+                0x000000000000a7b0                _dl_protect_relro
+                0x000000000000a810                _dl_reloc_bad_type
+                0x000000000000a8e0                _dl_relocate_object
+                0x000000000000c2f0                _dl_map_object_deps
+                0x000000000000d550                _dl_important_hwcaps
+                0x000000000000dd10                _dl_fixup
+                0x000000000000dee0                _dl_profile_fixup
+                0x000000000000e4e0                _dl_call_pltexit
+                0x000000000000e710                _dl_init
+                0x000000000000e840                _dl_sort_fini
+                0x000000000000ea80                _dl_fini
+                0x000000000000ee10                _dl_debug_state
+                0x000000000000ee10                __GI__dl_debug_state
+                0x000000000000ee20                _dl_debug_initialize
+                0x000000000000f490                _dl_sysdep_read_whole_file
+                0x000000000000f520                _dl_debug_printf
+                0x000000000000f5d0                _dl_debug_printf_c
+                0x000000000000f680                _dl_dprintf
+                0x000000000000f720                _dl_name_match_p
+                0x000000000000f790                _dl_higher_prime_number
+                0x000000000000f810                _dl_strtoul
+                0x000000000000fd70                _dl_check_map_versions
+                0x0000000000010230                _dl_check_all_versions
+                0x00000000000102a0                _dl_start_profile
+                0x0000000000010a80                __GI__dl_mcount
+                0x0000000000010a80                _dl_mcount
+                0x0000000000010ff0                _dl_next_tls_modid
+                0x00000000000110f0                _dl_count_modids
+                0x0000000000011150                _dl_determine_tlsoffset
+                0x0000000000011320                _dl_get_tls_static_info
+                0x0000000000011340                _dl_allocate_tls_storage
+                0x0000000000011400                __GI__dl_allocate_tls_init
+                0x0000000000011400                _dl_allocate_tls_init
+                0x00000000000116a0                __GI__dl_allocate_tls
+                0x00000000000116a0                _dl_allocate_tls
+                0x00000000000116e0                _dl_deallocate_tls
+                0x00000000000116e0                __GI__dl_deallocate_tls
+                0x0000000000011760                _dl_update_slotinfo
+                0x00000000000119f0                __GI___tls_get_addr
+                0x00000000000119f0                ___tls_get_addr
+                0x0000000000011a30                _dl_tls_get_addr_soft
+                0x0000000000011ab0                _dl_add_to_slotinfo
+                0x0000000000011b90                __tls_get_addr_slow
+                0x0000000000011bc0                _dl_get_origin
+                0x0000000000011d40                _dl_scope_free
+                0x0000000000011e10                _dl_make_stack_executable
+                0x0000000000011e10                __GI__dl_make_stack_executable
+                0x0000000000011ea0                _dl_check_caller
+                0x00000000000122d0                __GI__dl_find_dso_for_object
+                0x00000000000122d0                _dl_find_dso_for_object
+                0x0000000000012390                _dl_open
+                0x00000000000127a0                _dl_show_scope
+                0x0000000000013360                _dl_close_worker
+                0x00000000000142c0                _dl_close
+                0x0000000000014330                _dl_runtime_resolve_avx512
+                0x00000000000144a0                _dl_runtime_profile_avx512
+                0x0000000000014920                _dl_runtime_resolve_avx_slow
+                0x0000000000014960                _dl_runtime_resolve_avx_opt
+                0x0000000000014980                _dl_runtime_resolve_avx
+                0x0000000000014ae0                _dl_runtime_profile_avx
+                0x0000000000014f60                _dl_runtime_resolve_sse
+                0x00000000000150a0                _dl_runtime_profile_sse
+                0x00000000000152a0                _dl_runtime_resolve_avx512_opt
+                0x00000000000152d0                _dl_runtime_resolve_sse_vex
+                0x0000000000015420                _dl_cache_libcmp
+                0x0000000000015500                _dl_load_cache_lookup
+                0x0000000000015b90                _dl_unload_cache
+                0x0000000000015c90                __tunable_set_val
+                0x0000000000015cb0                __GI___tunables_init
+                0x0000000000016190                __tunable_get_val
+                0x0000000000016190                __GI___tunable_get_val
+                0x0000000000016210                _dl_make_tlsdesc_dynamic
+                0x00000000000164e0                _dl_tlsdesc_resolve_rela_fixup
+                0x00000000000166a0                _dl_tlsdesc_resolve_hold_fixup
+                0x00000000000166e0                _dl_unmap
+                0x0000000000016760                _dl_tlsdesc_return
+                0x0000000000016770                _dl_tlsdesc_undefweak
+                0x0000000000016780                _dl_tlsdesc_dynamic
+                0x0000000000016820                _dl_tlsdesc_resolve_rela
+                0x0000000000016890                _dl_tlsdesc_resolve_hold
+                0x0000000000016910                __tls_get_addr
+                0x0000000000016950                __get_cpu_features
+                0x0000000000016960                _dl_tunable_set_hwcaps
+                0x00000000000176a0                _dl_sysdep_start
+                0x0000000000017dc0                _dl_sysdep_start_cleanup
+                0x0000000000017dd0                _dl_show_auxv
+                0x0000000000017f80                _dl_discover_osversion
+                0x0000000000018150                _dl_next_ld_env_entry
+                0x00000000000181a0                unsetenv
+                0x0000000000018210                malloc
+                0x0000000000018320                calloc
+                0x0000000000018360                free
+                0x0000000000018390                __sigjmp_save
+                0x00000000000183a0                __strerror_r
+                0x0000000000018480                __GI___libc_fatal
+                0x0000000000018480                __libc_fatal
+                0x00000000000184b0                __GI___chk_fail
+                0x00000000000184b0                __chk_fail
+                0x00000000000184c0                __GI___assert_fail
+                0x00000000000184c0                __assert_fail
+                0x0000000000018510                realloc
+                0x00000000000185a0                __GI___assert_perror_fail
+                0x00000000000185a0                __assert_perror_fail
+                0x0000000000018610                _itoa
+                0x0000000000018660                __strsep
+                0x0000000000018660                strsep
+                0x0000000000018660                __strsep_g
+                0x00000000000186f0                _dl_signal_error
+                0x0000000000018890                _dl_signal_cerror
+                0x0000000000018920                _dl_catch_error
+                0x00000000000189f0                _dl_receive_error
+                0x0000000000018a30                _dl_resolve_conflicts
+                0x0000000000018bb0                __brk
+                0x0000000000018bb0                brk
+                0x0000000000018c00                sbrk
+                0x0000000000018c00                __sbrk
+                0x0000000000018c90                __getcwd
+                0x0000000000018c90                getcwd
+                0x00000000000190f0                openat64
+                0x0000000000019160                __alloc_dir
+                0x0000000000019260                __opendir
+                0x0000000000019260                opendir
+                0x0000000000019310                __fxstatat
+                0x0000000000019310                __fxstatat64
+                0x0000000000019310                __GI___fxstatat64
+ .text          0x0000000000019360       0xf2 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000019420                __libc_check_standard_fds
+ .text          0x0000000000019452        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x0000000000019452        0xe 
+ .text          0x0000000000019460       0x50 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x0000000000019460                __closedir
+                0x0000000000019460                closedir
+ .text          0x00000000000194b0       0x85 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+                0x00000000000194b0                readdir
+                0x00000000000194b0                __readdir64
+                0x00000000000194b0                __readdir
+                0x00000000000194b0                readdir64
+ *fill*         0x0000000000019535        0xb 
+ .text          0x0000000000019540       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000019540                rewinddir
+                0x0000000000019540                __rewinddir
+ .text          0x0000000000019570       0x89 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+                0x0000000000019570                __getdents
+                0x0000000000019570                __getdents64
+ *fill*         0x00000000000195f9        0x7 
+ .text          0x0000000000019600       0x8e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x0000000000019600                fdopendir
+                0x0000000000019600                __fdopendir
+ *fill*         0x000000000001968e        0x2 
+ .text          0x0000000000019690       0x53 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x0000000000019690                _dl_addr_inside_object
+ *fill*         0x00000000000196e3        0xd 
+ .text          0x00000000000196f0      0x110 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000019740                __profil
+                0x0000000000019740                profil
+ .text          0x0000000000019800        0x7 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000019800                __profile_frequency
+ *fill*         0x0000000000019807        0x9 
+ .text          0x0000000000019810       0x40 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+                0x0000000000019810                _xstat
+                0x0000000000019810                __xstat64
+                0x0000000000019810                __GI___xstat64
+                0x0000000000019810                __GI___xstat
+                0x0000000000019810                __xstat
+ .text          0x0000000000019850       0x40 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+                0x0000000000019850                __GI___fxstat
+                0x0000000000019850                __GI___fxstat64
+                0x0000000000019850                __fxstat64
+                0x0000000000019850                _fxstat
+                0x0000000000019850                __fxstat
+ .text          0x0000000000019890       0x40 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+                0x0000000000019890                __GI___lxstat
+                0x0000000000019890                _lxstat
+                0x0000000000019890                __lxstat
+                0x0000000000019890                __lxstat64
+                0x0000000000019890                __GI___lxstat64
+ .text          0x00000000000198d0       0x76 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+                0x00000000000198d0                __open
+                0x00000000000198d0                __libc_open64
+                0x00000000000198d0                __libc_open
+                0x00000000000198d0                open64
+                0x00000000000198d0                open
+                0x00000000000198d0                __open64
+ *fill*         0x0000000000019946        0xa 
+ .text          0x0000000000019950       0x28 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+                0x0000000000019950                __read
+                0x0000000000019950                __libc_read
+                0x0000000000019950                read
+ *fill*         0x0000000000019978        0x8 
+ .text          0x0000000000019980       0x28 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+                0x0000000000019980                __write
+                0x0000000000019980                write
+                0x0000000000019980                __libc_write
+ *fill*         0x00000000000199a8        0x8 
+ .text          0x00000000000199b0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x00000000000199b0                __lseek64
+                0x00000000000199b0                lseek
+                0x00000000000199b0                __libc_lseek64
+                0x00000000000199b0                llseek
+                0x00000000000199b0                __lseek
+                0x00000000000199b0                __libc_lseek
+                0x00000000000199b0                lseek64
+ .text          0x00000000000199e0       0x26 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+                0x00000000000199e0                access
+                0x00000000000199e0                __access
+ *fill*         0x0000000000019a06        0xa 
+ .text          0x0000000000019a10       0x8e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+                0x0000000000019a10                __libc_fcntl
+                0x0000000000019a10                __fcntl
+                0x0000000000019a10                fcntl
+ *fill*         0x0000000000019a9e        0x2 
+ .text          0x0000000000019aa0       0x26 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+                0x0000000000019aa0                __libc_close
+                0x0000000000019aa0                __close
+                0x0000000000019aa0                close
+ *fill*         0x0000000000019ac6        0xa 
+ .text          0x0000000000019ad0       0xe1 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000019ad0                __mmap
+                0x0000000000019ad0                mmap
+                0x0000000000019ad0                __mmap64
+                0x0000000000019ad0                mmap64
+ *fill*         0x0000000000019bb1        0xf 
+ .text          0x0000000000019bc0       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000019bc0                munmap
+                0x0000000000019bc0                __GI___munmap
+                0x0000000000019bc0                __GI_munmap
+                0x0000000000019bc0                __munmap
+ .text          0x0000000000019be0       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000019be0                __mprotect
+                0x0000000000019be0                __GI___mprotect
+                0x0000000000019be0                __GI_mprotect
+                0x0000000000019be0                mprotect
+ .text          0x0000000000019c00       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000019c00                uname
+                0x0000000000019c00                __GI_uname
+                0x0000000000019c00                __uname
+                0x0000000000019c00                __GI___uname
+ .text          0x0000000000019c20       0x4a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000019c20                _Exit
+                0x0000000000019c20                __GI__exit
+                0x0000000000019c20                _exit
+ *fill*         0x0000000000019c6a        0x6 
+ .text          0x0000000000019c70        0x8 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000019c70                __getpid
+                0x0000000000019c70                getpid
+                0x0000000000019c70                __GI_getpid
+                0x0000000000019c70                __GI___getpid
+ .text          0x0000000000019c78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x0000000000019c78        0x8 
+ .text          0x0000000000019c80       0x4f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000019c80                __sigsetjmp
+                0x0000000000019c80                __GI___sigsetjmp
+ *fill*         0x0000000000019ccf        0x1 
+ .text          0x0000000000019cd0       0x4a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000019cd0                __longjmp
+ *fill*         0x0000000000019d1a        0x6 
+ .text          0x0000000000019d20      0x270 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x0000000000019d40                __libc_sigaction
+                0x0000000000019f70                sigaction
+                0x0000000000019f70                __sigaction
+ .text          0x0000000000019f90       0x41 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x0000000000019f90                __strdup
+                0x0000000000019f90                strdup
+ *fill*         0x0000000000019fd1        0xf 
+ .text          0x0000000000019fe0     0x1439 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                0x0000000000019fe0                strcmp
+ *fill*         0x000000000001b419        0x7 
+ .text          0x000000000001b420      0x323 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                0x000000000001b420                memchr
+                0x000000000001b420                __memchr
+ *fill*         0x000000000001b743        0xd 
+ .text          0x000000000001b750      0x1f9 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                0x000000000001b750                __rawmemchr
+                0x000000000001b750                rawmemchr
+ *fill*         0x000000000001b949        0x7 
+ .text          0x000000000001b950      0x400 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                0x000000000001b950                bcmp
+                0x000000000001b950                memcmp
+ .text          0x000000000001bd50      0x21a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                0x000000000001bd50                index
+                0x000000000001bd50                strchr
+ *fill*         0x000000000001bf6a        0x6 
+ .text          0x000000000001bf70      0x19c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                0x000000000001bf70                strlen
+ *fill*         0x000000000001c10c        0x4 
+ .text          0x000000000001c110      0x218 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                0x000000000001c110                __strnlen
+                0x000000000001c110                strnlen
+ *fill*         0x000000000001c328        0x8 
+ .text          0x000000000001c330       0xdc /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                0x000000000001c330                stpcpy
+                0x000000000001c330                __stpcpy
+ *fill*         0x000000000001c40c        0x4 
+ .text          0x000000000001c410       0x97 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                0x000000000001c410                strcspn
+ *fill*         0x000000000001c4a7        0x9 
+ .text          0x000000000001c4b0      0x1ed /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                0x000000000001c4b0                mempcpy
+                0x000000000001c4b0                __mempcpy
+                0x000000000001c4c0                memmove
+                0x000000000001c4c0                memcpy
+ *fill*         0x000000000001c69d        0x3 
+ .text          0x000000000001c6a0       0xda /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                0x000000000001c6a0                memset
+ *fill*         0x000000000001c77a        0x6 
+ .text          0x000000000001c780       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x000000000001c780                setitimer
+                0x000000000001c780                __setitimer
+                0x000000000001c780                __GI_setitimer
+                0x000000000001c780                __GI___setitimer
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x169
+ .text.unlikely
+                0x0000000000000000      0x169 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .text.unlikely
+                0x0000000000000169        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000      0xda8
+ *(.rodata)
+ .rodata        0x0000000000000000      0xd68 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+                0x0000000000000cc0                __GI__itoa_lower_digits
+                0x0000000000000cc0                _itoa_lower_digits
+ .rodata        0x0000000000000d68       0x40 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+
+.rodata.str1.1  0x0000000000000000     0x12df
+ .rodata.str1.1
+                0x0000000000000000     0x12cb /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x00000000000012cb       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+
+.rodata.str1.8  0x0000000000000000     0x2301
+ .rodata.str1.8
+                0x0000000000000000     0x2301 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+
+.rodata.str1.16
+                0x0000000000000000      0x356
+ .rodata.str1.16
+                0x0000000000000000      0x356 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /home/yongkyun/glibc/build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x2e00
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2418 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .eh_frame      0x0000000000002418       0x68 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000002480       0x40 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x00000000000024c0       0x48 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .eh_frame      0x0000000000002508       0x38 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x0000000000002540       0x68 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .eh_frame      0x00000000000025a8       0x50 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x00000000000025f8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x0000000000002628       0x50 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+                                         0x48 (size before relaxing)
+ .eh_frame      0x0000000000002678       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x00000000000026a8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .eh_frame      0x00000000000026d8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .eh_frame      0x0000000000002708       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .eh_frame      0x0000000000002738       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .eh_frame      0x0000000000002768       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .eh_frame      0x0000000000002798       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .eh_frame      0x00000000000027c8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x00000000000027f8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000002828       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .eh_frame      0x0000000000002858       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .eh_frame      0x0000000000002888       0x70 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x00000000000028f8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000002928       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000002958       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000002988       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x00000000000029b8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000029e8       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000002a18       0x48 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000002a60       0xf0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000002b50       0x50 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000002ba0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .eh_frame      0x0000000000002bd0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .eh_frame      0x0000000000002c00       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .eh_frame      0x0000000000002c30       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .eh_frame      0x0000000000002c60       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .eh_frame      0x0000000000002c90       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .eh_frame      0x0000000000002cc0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .eh_frame      0x0000000000002cf0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .eh_frame      0x0000000000002d20       0x38 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .eh_frame      0x0000000000002d58       0x48 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002da0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000002dd0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xf78
+ *(.data)
+ .data          0x0000000000000000      0xf78 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.data.rel.ro    0x0000000000000000      0x674
+ .data.rel.ro   0x0000000000000000      0x674 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x00000000000002d0                __stack_prot
+                0x0000000000000660                _dl_random
+                0x0000000000000668                __libc_stack_end
+                0x0000000000000668                __GI___libc_stack_end
+                0x0000000000000670                __GI___libc_enable_secure
+                0x0000000000000670                __libc_enable_secure
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x140
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000118        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .bss           0x0000000000000118       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000138        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x0000000000000138        0x8 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000138                _environ
+                0x0000000000000138                __environ
+                0x0000000000000138                environ
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .bss           0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+ *(COMMON)
+ COMMON         0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ COMMON         0x0000000000000140        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xca1
+ *(.comment)
+ .comment       0x0000000000000000      0x774 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .comment       0x0000000000000774       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x00000000000007a9       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x00000000000007de       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x0000000000000813       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .comment       0x0000000000000848       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x000000000000087d       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .comment       0x00000000000008b2       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x00000000000008e7       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x000000000000091c       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000951       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x0000000000000986       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .comment       0x00000000000009bb       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .comment       0x00000000000009f0       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .comment       0x0000000000000a25       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .comment       0x0000000000000a5a       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .comment       0x0000000000000a8f       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .comment       0x0000000000000ac4       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000af9       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x0000000000000b2e       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .comment       0x0000000000000b63       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .comment       0x0000000000000b98       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000bcd       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000c02       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000c37       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000c6c       0x35 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0xf60
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x770 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000770       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x00000000000007a0       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x00000000000007c0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x00000000000007f0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_aranges
+                0x0000000000000820       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000850       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_aranges
+                0x0000000000000880       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x00000000000008b0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x00000000000008e0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000910       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000940       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_aranges
+                0x0000000000000970       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_aranges
+                0x00000000000009a0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_aranges
+                0x00000000000009d0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_aranges
+                0x0000000000000a00       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_aranges
+                0x0000000000000a30       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_aranges
+                0x0000000000000a60       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000a90       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000ac0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_aranges
+                0x0000000000000af0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_aranges
+                0x0000000000000b20       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000b50       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x0000000000000c40       0x20 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000000c60       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000000c90       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000000cc0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000000cf0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000000d20       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000d50       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_aranges
+                0x0000000000000d80       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_aranges
+                0x0000000000000db0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000de0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_aranges
+                0x0000000000000e10       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_aranges
+                0x0000000000000e40       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000000e70       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_aranges
+                0x0000000000000ea0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_aranges
+                0x0000000000000ed0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000f00       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000f30       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x64261
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x56821 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_info    0x0000000000056821      0x87f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x00000000000570a0      0x474 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x0000000000057514      0x6df /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x0000000000057bf3      0x750 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_info    0x0000000000058343      0x66e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x00000000000589b1      0x732 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_info    0x00000000000590e3      0x85f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x0000000000059942      0xdc7 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x000000000005a709      0xa69 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x000000000005b172     0x1990 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x000000000005cb02      0x6b4 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_info    0x000000000005d1b6      0x6ad /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_info    0x000000000005d863      0x6b4 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_info    0x000000000005df17      0x662 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_info    0x000000000005e579      0x631 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_info    0x000000000005ebaa      0x638 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_info    0x000000000005f1e2      0x599 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x000000000005f77b      0x5df /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x000000000005fd5a      0x891 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_info    0x00000000000605eb      0x5c2 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_info    0x0000000000060bad     0x1ceb /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x0000000000062898       0x6d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x0000000000062905       0x6d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x0000000000062972       0x6e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000629e0      0x55c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x0000000000062f3c       0x6e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x0000000000062faa       0xcc /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x0000000000063076       0x67 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000630dd       0x6a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x0000000000063147      0xa59 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x0000000000063ba0      0x167 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x0000000000063d07       0x67 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_info    0x0000000000063d6e       0x74 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_info    0x0000000000063de2       0x77 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_info    0x0000000000063e59       0x67 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_info    0x0000000000063ec0       0x74 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_info    0x0000000000063f34       0x74 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_info    0x0000000000063fa8       0x74 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_info    0x000000000006401c       0x67 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_info    0x0000000000064083       0x68 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_info    0x00000000000640eb       0x85 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_info    0x0000000000064170       0x84 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000641f4       0x6d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_abbrev   0x0000000000000000     0xb434
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x8b02 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000008b02      0x212 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x0000000000008d14       0xe6 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x0000000000008dfa      0x18e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x0000000000008f88      0x183 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_abbrev  0x000000000000910b      0x14d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x0000000000009258      0x1c0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_abbrev  0x0000000000009418      0x18d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x00000000000095a5      0x203 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x00000000000097a8      0x297 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x0000000000009a3f      0x26d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x0000000000009cac      0x143 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_abbrev  0x0000000000009def      0x152 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_abbrev  0x0000000000009f41      0x143 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_abbrev  0x000000000000a084      0x187 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_abbrev  0x000000000000a20b      0x18c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_abbrev  0x000000000000a397      0x191 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_abbrev  0x000000000000a528      0x150 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x000000000000a678      0x170 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x000000000000a7e8      0x22c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_abbrev  0x000000000000aa14      0x16e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_abbrev  0x000000000000ab82      0x2ee /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x000000000000ae70       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x000000000000ae84       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x000000000000ae98       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x000000000000aeac      0x14d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x000000000000aff9       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x000000000000b00d       0x53 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x000000000000b060       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x000000000000b074       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x000000000000b088      0x1de /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x000000000000b266       0xde /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x000000000000b344       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_abbrev  0x000000000000b358       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_abbrev  0x000000000000b36c       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_abbrev  0x000000000000b380       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_abbrev  0x000000000000b394       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_abbrev  0x000000000000b3a8       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_abbrev  0x000000000000b3bc       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_abbrev  0x000000000000b3d0       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_abbrev  0x000000000000b3e4       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_abbrev  0x000000000000b3f8       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000b40c       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000b420       0x14 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_line     0x0000000000000000    0x100b7
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0xc43e /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_line    0x000000000000c43e      0x1ee /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000000c62c       0xe1 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000000c70d      0x22b /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x000000000000c938      0x245 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_line    0x000000000000cb7d      0x207 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x000000000000cd84      0x1fc /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_line    0x000000000000cf80      0x29e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x000000000000d21e      0x1ef /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x000000000000d40d      0x2d0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x000000000000d6dd      0x260 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x000000000000d93d      0x195 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_line    0x000000000000dad2      0x196 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_line    0x000000000000dc68      0x196 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_line    0x000000000000ddfe      0x1d4 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_line    0x000000000000dfd2      0x1da /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_line    0x000000000000e1ac      0x1dc /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_line    0x000000000000e388      0x159 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x000000000000e4e1      0x194 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x000000000000e675      0x1e2 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_line    0x000000000000e857      0x193 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_line    0x000000000000e9ea      0x2bb /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x000000000000eca5       0x59 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x000000000000ecfe       0x59 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x000000000000ed57       0x59 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x000000000000edb0      0x14c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x000000000000eefc       0x58 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x000000000000ef54       0x41 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x000000000000ef95       0x5f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x000000000000eff4       0x61 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x000000000000f055      0x2ae /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x000000000000f303       0xa5 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x000000000000f3a8      0x48f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_line    0x000000000000f837      0x124 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_line    0x000000000000f95b       0xd3 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_line    0x000000000000fa2e      0x14c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_line    0x000000000000fb7a       0xde /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_line    0x000000000000fc58       0xa5 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_line    0x000000000000fcfd       0xa5 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_line    0x000000000000fda2       0x95 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_line    0x000000000000fe37       0x80 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_line    0x000000000000feb7       0xfc /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_line    0x000000000000ffb3       0xab /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_line    0x000000000001005e       0x59 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x3a9ca
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x30de3 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_str     0x0000000000030de3      0x5d0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x00000000000313b3      0x3e0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x0000000000031793      0x55b /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x0000000000031cee      0x5c9 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_str     0x00000000000322b7      0x544 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x00000000000327fb      0x53a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_str     0x0000000000032d35      0x689 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x00000000000333be      0xa65 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x0000000000033e23      0x759 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x000000000003457c     0x1175 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x00000000000356f1      0x549 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_str     0x0000000000035c3a      0x547 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_str     0x0000000000036181      0x54c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_str     0x00000000000366cd      0x507 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_str     0x0000000000036bd4      0x507 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_str     0x00000000000370db      0x509 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_str     0x00000000000375e4      0x490 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x0000000000037a74      0x4d5 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x0000000000037f49      0x54f /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_str     0x0000000000038498      0x4c9 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_str     0x0000000000038961     0x11f3 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x0000000000039b54      0x455 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x0000000000039fa9      0x1a5 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x000000000003a14e      0x6ce /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x000000000003a81c      0x1ae /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+
+.debug_loc      0x0000000000000000    0x32a18
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x30270 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_loc     0x0000000000030270      0x1fb /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loc     0x000000000003046b      0x141 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loc     0x00000000000305ac      0x1d8 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_loc     0x0000000000030784       0x4c /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loc     0x00000000000307d0      0x321 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_loc     0x0000000000030af1       0xbe /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loc     0x0000000000030baf       0x65 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loc     0x0000000000030c14      0x23a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loc     0x0000000000030e4e      0x182 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_loc     0x0000000000030fd0      0x177 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_loc     0x0000000000031147      0x182 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_loc     0x00000000000312c9      0x26d /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_loc     0x0000000000031536       0xac /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_loc     0x00000000000315e2       0xac /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_loc     0x000000000003168e       0xea /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loc     0x0000000000031778       0xac /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loc     0x0000000000031824      0x3e1 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_loc     0x0000000000031c05       0xac /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_loc     0x0000000000031cb1      0x78e /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loc     0x000000000003243f      0x158 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loc     0x0000000000032597      0x37a /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loc     0x0000000000032911      0x107 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-strdup.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x7f00
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x78b0 /home/yongkyun/glibc/build/elf/dl-allobjs.os
+ .debug_ranges  0x00000000000078b0       0x70 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_ranges  0x0000000000007920       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_ranges  0x0000000000007950       0xa0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-readdir.os)
+ .debug_ranges  0x00000000000079f0       0xd0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-getdents.os)
+ .debug_ranges  0x0000000000007ac0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-xstat.os)
+ .debug_ranges  0x0000000000007af0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fxstat.os)
+ .debug_ranges  0x0000000000007b20       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lxstat.os)
+ .debug_ranges  0x0000000000007b50       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-open64.os)
+ .debug_ranges  0x0000000000007b80       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-read.os)
+ .debug_ranges  0x0000000000007bb0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-write.os)
+ .debug_ranges  0x0000000000007be0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_ranges  0x0000000000007c10       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_ranges  0x0000000000007c40       0x60 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-fcntl.os)
+ .debug_ranges  0x0000000000007ca0       0x30 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-close.os)
+ .debug_ranges  0x0000000000007cd0       0xe0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_ranges  0x0000000000007db0       0x90 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_ranges  0x0000000000007e40       0xc0 /home/yongkyun/glibc/build/elf/rtld-libc.a(rtld-sigaction.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/yongkyun/glibc/build/elf/librtld.os elf64-x86-64)

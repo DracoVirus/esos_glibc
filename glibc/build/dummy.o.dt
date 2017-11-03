@@ -1,0 +1,14 @@
+/home/yongkyun/glibc/build/dummy.o: /home/yongkyun/glibc/build/dummy.c \
+ ../include/stdc-predef.h /home/yongkyun/glibc/build/libc-modules.h \
+ ../include/libc-symbols.h /home/yongkyun/glibc/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/yongkyun/glibc/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/yongkyun/glibc/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
